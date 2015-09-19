@@ -1,0 +1,7 @@
+# -*- mod: snippet -*-
+# name: mod
+# key: mod
+# --
+mod $1 {
+    $0
+}
